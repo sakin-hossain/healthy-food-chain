@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: #575757;
+}
+.top-bg{
+    background-image: #FFFFFF;
+}
+.flexible-container{
+    display: flex;
+    width: 100%;
+}
+.flexible-container img{
+    width: 80%;
+}
+.highlight-area{
+    color: #A5D4EE;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.linked-btn{
+    text-decoration: none;
+    background-image: linear-gradient(#3d84aa,#A5D4EE);
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    box-shadow: 10px 10px 40px #b6d3e2;
+}
+.about-me-area{
+    background: url(images/about-me.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.hudai-arekta{
+    display: inline-block;
+    padding: 18% 0;
+    margin-left: 60%;
+}
+.recipie-text-area{
+    text-align: center;
+    margin-bottom: 10%;
+}
+.recipie-item-area {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+}
+.recipie-item{
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 70px grey;
+    border-radius: 30px;
+    padding: 2%;
+}
+.recipie-item img{
+    width: 100%;
+    display: block;
+    border-radius: 30px;
+}
+.footer-area{
+    background: #0B0E17;
+    padding: 2% 0;
+    text-align: center;
+    color: white;
+}
