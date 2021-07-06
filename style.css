@@ -1,7 +1,7 @@
 body{
     margin: 0;
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 h1{
     font-size: 40px;
@@ -52,7 +52,7 @@ h1{
     width: 100%;
 }
 .about-me-img{
-    margin-top: 15%;
+    margin-top: 25%;
     height: 30%;
     width: 30%;
 }
